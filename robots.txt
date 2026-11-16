@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betterthandefault.app/sitemap.xml
