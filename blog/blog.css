@@ -1,0 +1,65 @@
+/* Blog (23-11): bouwt voort op /style.css. Alleen wat style.css niet heeft. Geen inline styles (CSP). */
+.blogpage .skip{z-index:100}
+body.blogpage header nav{align-items:center;flex-wrap:wrap}
+body.blogpage header nav .sep{width:1px;height:20px;background:rgba(255,255,255,.28);margin:0 6px}
+body.blogpage header nav a[aria-current="true"]{opacity:1;text-decoration:underline;text-decoration-color:var(--orange);text-underline-offset:6px;text-decoration-thickness:2px}
+body.blogpage .post{max-width:46rem}
+.post .crumbs{margin:0 0 28px;font-size:14px;color:var(--mist-d)}
+.post .crumbs ol{display:flex;flex-wrap:wrap;gap:2px 0;padding:0}
+.post .crumbs li{display:inline-flex;align-items:center}
+.post .crumbs li+li::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--orange);margin:0 10px}
+.post .crumbs a{display:inline-flex;align-items:center;min-height:44px;text-decoration:none}
+.post .crumbs a:hover{text-decoration:underline}
+.post .meta-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;margin-bottom:18px}
+.post .meta-row .sub{font-size:14px;color:var(--mist-d)}
+.post .lab{--fg:var(--paper-ink);--bg:var(--paper);--tone2:rgba(28,28,29,.09)}
+.post h1{font-size:clamp(32px,5.2vw,56px);line-height:1.02;margin-bottom:16px}
+.post .byline{font-size:15px;color:var(--mist-d);margin-bottom:30px}
+.post article>section:first-of-type{border-top:0;padding-top:0;margin-top:0}
+.post h2{font-size:clamp(22px,2.6vw,30px);line-height:1.15}
+.post h3{font-size:19px;line-height:1.25;letter-spacing:-.01em;margin:22px 0 6px}
+.post p,.post li{font-size:18px;line-height:1.6}
+.post article p{max-width:38em}
+.post ul,.post ol{padding-left:1.3em;margin:0 0 18px;max-width:38em}
+.post ul{list-style:disc}
+.post ol{list-style:decimal}
+.post li{margin:0 0 8px;padding-left:.2em}
+.post li::marker{color:var(--orange);font-weight:700}
+.post .srcnote{font-size:15px;color:var(--mist-d)}
+.post ol.src li{font-size:15px;line-height:1.5;overflow-wrap:anywhere}
+.post .apply{background:rgba(232,84,31,.09);border-radius:18px;padding:22px 24px;border-top:0;margin-top:40px}
+.post .apply h2{margin-top:0}
+.post .notice{background:rgba(28,28,29,.06);border-left:4px solid var(--orange);border-radius:6px;padding:14px 18px;max-width:38em}
+.post .readbtn{display:inline-flex;align-items:center;min-height:44px;padding:0 20px;border:2px solid var(--orange);border-radius:999px;font-weight:700;text-decoration:none}
+.post .readbtn:hover{background:var(--orange);color:#0A0A0B}
+.post .cta{margin-top:48px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px 28px;background:var(--ink);color:#F3F1EE;border-radius:22px;padding:clamp(22px,3vw,34px)}
+.post .cta p{font-size:16px;line-height:1.45;color:#DDD8D2;margin:0;max-width:28em}
+.post .cta .cta-h{font:800 clamp(22px,2.4vw,30px)/1.1 var(--display);letter-spacing:-.025em;color:#fff;margin-bottom:8px}
+.post .cta .statusbox{text-decoration:none}
+.post .prevnext{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:34px}
+.post .prevnext a{display:block;border:1px solid rgba(28,28,29,.2);border-radius:14px;padding:14px 18px;text-decoration:none;min-height:44px}
+.post .prevnext a:hover{border-color:var(--orange)}
+.post .prevnext .next{text-align:right}
+.post .prevnext small{display:block;font-size:13px;color:var(--mist-d)}
+.post .prevnext span{font-weight:700;line-height:1.25}
+.post.index h1{margin-bottom:14px}
+.post .lead-p{font-size:var(--t-lead);line-height:1.4;max-width:34em}
+.post .cards-post{list-style:none;padding:0;margin:32px 0 0;max-width:none}
+.post .card-post{border-top:1px solid rgba(28,28,29,.16);padding:22px 0 8px;margin:0}
+.post .card-post h2{font-size:clamp(22px,2.4vw,28px);margin:0 0 8px}
+.post .card-post h2 a{text-decoration:none}
+.post .card-post h2 a:hover{text-decoration:underline;text-decoration-color:var(--orange)}
+.post .card-post p{font-size:16px;color:var(--mist-d)}
+.post .card-post .meta-row{margin-bottom:10px}
+.post .legend dl{margin-top:12px}
+.post .legend dt{margin-top:14px}
+@media (max-width:560px){.post .prevnext{grid-template-columns:1fr}.post .prevnext .next{text-align:left}.post .apply{padding:18px}}
+@media (prefers-color-scheme:dark){
+  .post .crumbs,.post .byline,.post .meta-row .sub,.post .srcnote,.post .card-post p,.post .prevnext small{color:#A9A4A0}
+  .post .lab{--fg:#F3F1EE;--bg:#121214;--tone2:rgba(255,255,255,.12)}
+  .post .notice{background:rgba(255,255,255,.07)}
+  .post .apply{background:rgba(232,84,31,.16)}
+  .post .card-post,.post .prevnext a{border-color:rgba(255,255,255,.16)}
+  .post .cta{background:#000}
+}
+@media (prefers-reduced-motion:reduce){.post a{transition:none}}

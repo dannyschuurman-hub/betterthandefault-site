@@ -26,12 +26,13 @@
       const span = Math.max(1, hero.offsetHeight - vh);
       const p = clamp((y - hero.offsetTop) / span);
       hero.style.setProperty('--p', p.toFixed(4));
-      hero.style.setProperty('--out', ease(part(p, 0.04, 0.3)).toFixed(4));
-      hero.style.setProperty('--a', ease(part(p, 0.06, 0.42)).toFixed(4));
-      const idx = p < 0.45 ? -1 : p < 0.64 ? 0 : p < 0.82 ? 1 : 2;
+      hero.style.setProperty('--out', ease(part(p, 0.03, 0.16)).toFixed(4));
+      hero.style.setProperty('--a', ease(part(p, 0.05, 0.23)).toFixed(4));
+      const idx = p < 0.17 ? -1 : p < 0.42 ? 0 : p < 0.68 ? 1 : 2;
       caps.forEach((c, k) => c.classList.toggle('on', k === idx));
       show(heroImgs, Math.max(0, idx));
-      const better = Math.floor(part(p, 0.42, 0.98) * 10);
+      const better = Math.floor(part(p, 0.2, 0.98) * 10);
+      hero.style.setProperty('--calm', (better / 10).toFixed(2));
       dots.forEach((dt, k) => dt.classList.toggle('better', k < better));
     } else if (heroImgs.length) {
       show(heroImgs, 0);
@@ -47,8 +48,8 @@
   frame();
 
   if ('IntersectionObserver' in window) {
-    const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { threshold: 0.12, rootMargin: '0px 0px -6% 0px' });
-    qsa('.rv').forEach((el) => io.observe(el));
+    const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { threshold: 0.06, rootMargin: '0px 0px -4% 0px' });
+    qsa('.rv,.stg').forEach((el) => io.observe(el));
     const so = new IntersectionObserver((es) => es.forEach((e) => {
       if (e.isIntersecting) {
         steps.forEach((s) => s.classList.toggle('on', s === e.target));
@@ -57,7 +58,7 @@
     }), { rootMargin: '-45% 0px -45% 0px', threshold: 0 });
     steps.forEach((s) => so.observe(s));
   } else {
-    qsa('.rv').forEach((el) => el.classList.add('in'));
+    qsa('.rv,.stg').forEach((el) => el.classList.add('in'));
     steps.forEach((s) => s.classList.add('on'));
   }
   if (steps[0]) steps[0].classList.add('on');

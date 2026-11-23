@@ -36,4 +36,258 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/support/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/support/" />
   </url>
+<!-- blog:start -->
+  <url>
+    <loc>https://betterthandefault.app/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/grayscale-phone-what-research-says/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/grayscale-phone-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/grayscale-phone-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/grayscale-phone-what-research-says/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/grayscale-phone-what-research-says/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/grayscale-phone-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/grayscale-phone-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/grayscale-phone-what-research-says/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/doomscrolling-and-the-feed-what-research-says/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/doomscrolling-and-the-feed-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/doomscrolling-and-the-feed-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/doomscrolling-and-the-feed-what-research-says/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/doomscrolling-and-the-feed-what-research-says/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/doomscrolling-and-the-feed-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/doomscrolling-and-the-feed-what-research-says/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/doomscrolling-and-the-feed-what-research-says/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/attention-residue-task-switching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/attention-residue-task-switching/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/attention-residue-task-switching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/attention-residue-task-switching/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/attention-residue-task-switching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/attention-residue-task-switching/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/attention-residue-task-switching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/attention-residue-task-switching/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/30-minute-focus-sprint/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/30-minute-focus-sprint/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/30-minute-focus-sprint/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/30-minute-focus-sprint/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/30-minute-focus-sprint/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/30-minute-focus-sprint/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/30-minute-focus-sprint/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/30-minute-focus-sprint/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/why-boredom-helps/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/why-boredom-helps/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/why-boredom-helps/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/why-boredom-helps/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/why-boredom-helps/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/why-boredom-helps/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/why-boredom-helps/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/why-boredom-helps/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/phone-and-sleep-outside-the-bedroom/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/phone-and-sleep-outside-the-bedroom/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/phone-and-sleep-outside-the-bedroom/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/phone-and-sleep-outside-the-bedroom/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/phone-and-sleep-outside-the-bedroom/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/phone-and-sleep-outside-the-bedroom/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/phone-and-sleep-outside-the-bedroom/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/phone-and-sleep-outside-the-bedroom/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/notifications-in-batches/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/notifications-in-batches/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/notifications-in-batches/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/notifications-in-batches/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/notifications-in-batches/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/notifications-in-batches/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/notifications-in-batches/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/notifications-in-batches/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/what-flow-state-actually-means/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/what-flow-state-actually-means/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/what-flow-state-actually-means/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/what-flow-state-actually-means/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/what-flow-state-actually-means/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/what-flow-state-actually-means/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/what-flow-state-actually-means/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/what-flow-state-actually-means/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/notification-batching-vs-do-not-disturb/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/notification-batching-vs-do-not-disturb/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/notification-batching-vs-do-not-disturb/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/notification-batching-vs-do-not-disturb/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/notification-batching-vs-do-not-disturb/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/notification-batching-vs-do-not-disturb/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/notification-batching-vs-do-not-disturb/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/notification-batching-vs-do-not-disturb/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/phone-free-first-hour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/phone-free-first-hour/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/phone-free-first-hour/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/phone-free-first-hour/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/phone-free-first-hour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/phone-free-first-hour/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/phone-free-first-hour/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/phone-free-first-hour/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/why-a-gray-phone-feels-boring/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/why-a-gray-phone-feels-boring/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/why-a-gray-phone-feels-boring/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/why-a-gray-phone-feels-boring/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/why-a-gray-phone-feels-boring/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/why-a-gray-phone-feels-boring/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/why-a-gray-phone-feels-boring/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/why-a-gray-phone-feels-boring/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/deep-work-for-beginners/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/deep-work-for-beginners/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/deep-work-for-beginners/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/deep-work-for-beginners/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/deep-work-for-beginners/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/deep-work-for-beginners/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/deep-work-for-beginners/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/deep-work-for-beginners/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/single-tasking-in-practice/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/single-tasking-in-practice/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/single-tasking-in-practice/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/single-tasking-in-practice/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/single-tasking-in-practice/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/single-tasking-in-practice/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/single-tasking-in-practice/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/single-tasking-in-practice/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/30-minute-sprint-vs-longer-blocks/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/30-minute-sprint-vs-longer-blocks/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/30-minute-sprint-vs-longer-blocks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/30-minute-sprint-vs-longer-blocks/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/30-minute-sprint-vs-longer-blocks/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/30-minute-sprint-vs-longer-blocks/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/30-minute-sprint-vs-longer-blocks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/30-minute-sprint-vs-longer-blocks/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/how-to-set-a-vip-list/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/how-to-set-a-vip-list/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/how-to-set-a-vip-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/how-to-set-a-vip-list/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/how-to-set-a-vip-list/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/how-to-set-a-vip-list/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/how-to-set-a-vip-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/how-to-set-a-vip-list/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/screen-time-limits-that-work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/screen-time-limits-that-work/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/screen-time-limits-that-work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/screen-time-limits-that-work/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/screen-time-limits-that-work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/screen-time-limits-that-work/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/screen-time-limits-that-work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/screen-time-limits-that-work/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/evening-phone-routine/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/evening-phone-routine/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/evening-phone-routine/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/evening-phone-routine/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/evening-phone-routine/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/evening-phone-routine/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/evening-phone-routine/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/evening-phone-routine/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/doomscrolling-reset-7-days/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/doomscrolling-reset-7-days/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/doomscrolling-reset-7-days/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/doomscrolling-reset-7-days/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/doomscrolling-reset-7-days/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/doomscrolling-reset-7-days/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/doomscrolling-reset-7-days/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/doomscrolling-reset-7-days/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/reading-vs-scrolling/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/reading-vs-scrolling/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/reading-vs-scrolling/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/reading-vs-scrolling/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/reading-vs-scrolling/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/reading-vs-scrolling/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/reading-vs-scrolling/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/reading-vs-scrolling/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/blog/what-flow-state-needs/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/what-flow-state-needs/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/what-flow-state-needs/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/what-flow-state-needs/" />
+  </url>
+  <url>
+    <loc>https://betterthandefault.app/nl/blog/what-flow-state-needs/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betterthandefault.app/blog/what-flow-state-needs/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://betterthandefault.app/nl/blog/what-flow-state-needs/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betterthandefault.app/blog/what-flow-state-needs/" />
+  </url>
+<!-- blog:end -->
 </urlset>
