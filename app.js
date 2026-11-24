@@ -27,7 +27,7 @@
       const p = clamp((y - hero.offsetTop) / span);
       hero.style.setProperty('--p', p.toFixed(4));
       hero.style.setProperty('--out', ease(part(p, 0.03, 0.16)).toFixed(4));
-      hero.style.setProperty('--a', ease(part(p, 0.05, 0.23)).toFixed(4));
+      hero.style.setProperty('--a', ease(part(p, 0.04, 0.2)).toFixed(4));
       const idx = p < 0.17 ? -1 : p < 0.42 ? 0 : p < 0.68 ? 1 : 2;
       caps.forEach((c, k) => c.classList.toggle('on', k === idx));
       show(heroImgs, Math.max(0, idx));
