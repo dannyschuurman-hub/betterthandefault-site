@@ -10,10 +10,10 @@
 
   const hero = qs('.hero');
   const caps = qsa('.cap');
-  const heroImgs = qsa('.hero-phone .screen img');
+  const heroImgs = qsa('.hero-phone .phone img');
   const dots = qsa('.trail .d');
   const rail = qsa('.pill .rail i');
-  const stickyImgs = qsa('.sticky-phone .screen img');
+  const stickyImgs = qsa('.sticky-phone .phone img');
   const steps = qsa('.step');
   let ticking = false;
 
