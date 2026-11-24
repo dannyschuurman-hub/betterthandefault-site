@@ -70,7 +70,7 @@ h3{font-size:var(--t-h3);line-height:1.12;letter-spacing:-.02em;text-wrap:balanc
 .hero-phone{position:relative;display:flex;justify-content:center;margin-top:8px}
 .hero-phone::after{content:"";position:absolute;left:50%;bottom:-1.2svh;width:min(70%,520px);height:5.5svh;transform:translateX(-50%);z-index:-1;background:radial-gradient(closest-side,rgba(232,84,31,.6),rgba(232,84,31,0));filter:blur(6px);opacity:var(--a,1)}
 .caps{display:none}
-.hero-foot{position:relative;z-index:6;margin-bottom:clamp(40px,12vw,180px);display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:0 var(--gutr) clamp(24px,4.4svh,44px) calc(var(--gut) + 4px)}
+.hero-foot{position:relative;z-index:6;margin-bottom:0;display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:0 var(--gutr) clamp(24px,4.4svh,44px) calc(var(--gut) + 4px)}
 .status{display:flex;align-items:center;gap:14px;max-width:min(520px,100%)}
 .statusbox{background:#F3F1EE;color:#0A0A0B;border-radius:14px;padding:11px 18px;line-height:1.15;text-decoration:none;display:block;flex:none;transition:background .25s var(--ease),transform .25s var(--ease)}
 .statusbox:hover{background:var(--orange-hi)}
@@ -79,15 +79,15 @@ h3{font-size:var(--t-h3);line-height:1.12;letter-spacing:-.02em;text-wrap:balanc
 .statusbox b{font:700 20px/1.1 var(--display);letter-spacing:-.01em}
 .status p{font-size:var(--t-small);line-height:1.35;color:#DDD8D2;max-width:14em}
 .hero-side{max-width:19em;text-align:right;font-size:var(--t-small);line-height:1.4;color:#DDD8D2}
-.live .hero-foot{position:absolute;left:0;right:0;bottom:clamp(54px,10.5vw,160px);margin-bottom:0}
+.live .hero-foot{position:absolute;left:0;right:0;bottom:clamp(14px,2.4svh,28px);margin-bottom:0}
 
 /* the orange path: ten dots */
-.trail{position:absolute;left:0;right:0;bottom:0;height:clamp(70px,13vw,190px);z-index:-1;pointer-events:none}
-.trail svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.trail{display:none;--gap:clamp(24px,3vw,44px);position:absolute;left:0;right:0;bottom:0;height:clamp(52px,5.4vw,80px);z-index:-1;pointer-events:none}
+.trail svg{display:none}
 .trail path{fill:none;stroke:rgba(255,255,255,.28);stroke-width:1.5;vector-effect:non-scaling-stroke}
-.trail .d{position:absolute;width:clamp(14px,1.6vw,24px);aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:var(--orange);border:2.5px solid var(--orange);transition:background .5s var(--ease),transform .5s var(--ease),border-color .5s}
+.trail .d{position:absolute;top:50%;width:clamp(12px,1.1vw,16px);aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:var(--orange);border:2.5px solid var(--orange);transition:background .5s var(--ease),transform .5s var(--ease),border-color .5s}
+.d1{left:calc(50% + -4.5*var(--gap))}.d2{left:calc(50% + -3.5*var(--gap))}.d3{left:calc(50% + -2.5*var(--gap))}.d4{left:calc(50% + -1.5*var(--gap))}.d5{left:calc(50% + -0.5*var(--gap))}.d6{left:calc(50% + 0.5*var(--gap))}.d7{left:calc(50% + 1.5*var(--gap))}.d8{left:calc(50% + 2.5*var(--gap))}.d9{left:calc(50% + 3.5*var(--gap))}.d10{left:calc(50% + 4.5*var(--gap))}
 .trail .d.better{background:var(--ink);border-color:#fff;transform:translate(-50%,-50%) scale(1.12)}
-.d1{left:3%;top:56%}.d2{left:13.4%;top:34%}.d3{left:23.9%;top:30%}.d4{left:34.3%;top:50%}.d5{left:44.8%;top:76%}.d6{left:55.2%;top:86%}.d7{left:65.7%;top:68%}.d8{left:76.1%;top:44%}.d9{left:86.6%;top:36%}.d10{left:97%;top:52%}
 
 /* Phones: real photographs of a blank-screen phone (assets/src-phones), our screens warped in, glass sheen kept. Cut out, so the section shows through. */
 .phone{--pw:min(300px,64vw);position:relative;flex:none;height:calc(var(--pw)*2.1);width:auto;aspect-ratio:var(--ar)}
