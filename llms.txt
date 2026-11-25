@@ -1,5 +1,5 @@
 # Better Than Default
-> An iPhone app that helps you improve ten phone defaults, one at a time: settings and simple habits, each with an evidence label (Backed by research, Small study, Our advice, not proven). No account, no tracking, no server. Free to start, one-time purchase for the full version, no subscription. Not in the App Store yet; no release date.
+> An iPhone app that helps you improve ten phone defaults, one at a time: settings and simple habits, each with an evidence label (Backed by research, Small study, Our advice, not proven). No account, no tracking, no server. Free to start, one-time purchase for the full version, no subscription. Not in the App Store yet; planned release 1 December 2026.
 
 - [Home (English)](https://betterthandefault.app/)
 - [Home (Nederlands)](https://betterthandefault.app/nl/)
